@@ -33,6 +33,8 @@ Hey there! I'm Anjali, a passionate software enthusiast who loves problem-solvin
 ## 📊 GitHub Stats:
 ![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjali01012002&theme=highcontrast&hide_border=true&count_private=true&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali01012002&theme=highcontrast&hide_border=true&layout=compact)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Anjali01012002&theme=highcontrast&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anjali01012002&theme=highcontrast&hide_border=true)
+
 
 ---
 
