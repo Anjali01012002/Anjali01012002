@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&text=Hello%20I'm%20Anjali&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=FFFFFF) <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anjali01012002&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Visit Count](https://visitcount.itsvg.in/api?id=Anjali01012002&icon=5&color=3)
 
 ## 💫 About Me:
 Hey there! I'm Anjali, a passionate software enthusiast who loves problem-solving, building applications, and exploring new technologies. Whether it's coding, designing, or brainstorming ideas, I enjoy bringing creativity to the tech world. I am constantly learning and working on projects that can challenge and expand my skillset. My goal is to continue developing impactful and innovative solutions that can make a difference.
