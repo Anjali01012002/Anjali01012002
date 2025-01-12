@@ -11,6 +11,7 @@ Hey there! I'm Anjali, a passionate software enthusiast who loves problem-solvin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-kumari-38a55a266/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Anjali01012002)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FF6600.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/ak3325624/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ak3325624)
 
 ---
 
