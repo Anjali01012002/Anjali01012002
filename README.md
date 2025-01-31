@@ -16,7 +16,7 @@ Hey there! I'm Anjali, a passionate software enthusiast who loves problem-solvin
 ---
 
 ## 🎖️ My LeetCode Medal
-![LeetCode Medal](https://assets.leetcode.com/static_assets/marketing/202501.gif)
+<img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" width="200"/>
 
 ---
 
