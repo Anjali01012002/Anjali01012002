@@ -15,6 +15,11 @@ Hey there! I'm Anjali, a passionate software enthusiast who loves problem-solvin
 
 ---
 
+## 🎖️ My LeetCode Medal
+![LeetCode Medal](https://leetcode.com/medal/?showImg=0&id=6062313&isLevel=false)
+
+---
+
 ## 💻 Tech Stack:
 
 ### Frontend:
